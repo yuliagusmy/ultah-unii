@@ -25,7 +25,7 @@ const Affirmations = () => {
             className="cursor-pointer text-center"
           >
             <img src="/surat.jpg" alt="Surat" className="w-64 h-64 mx-auto mb-2 rounded-lg object-cover" />
-            <p className="text-gray-700">To Uniii</p>
+            <p className="text-gray-700 font-bold text-4xl">To Uniii</p>
           </motion.div>
         ) : (
           <motion.div
